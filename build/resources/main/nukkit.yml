@@ -1,0 +1,7 @@
+name: SignEditKt
+main: mcbe.boymelancholy.signeditkt.SignEditKt
+version: 1.0-SNAPSHOT
+api:
+ - 1.0.11
+authors:
+ - boymelancholy
