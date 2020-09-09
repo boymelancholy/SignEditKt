@@ -6,7 +6,7 @@ This plugin is written in Kotlin.
 [See this movie.](https://twitter.com/b0ymelancholy/status/1288683471397773312)  
   
 ## Download  
-[**HERE**]()  
+[**HERE**](https://github.com/boymelancholy/SignEditKt/releases/tag/1.0)  
   
 ## Dependency  
 Please add this plugin.  
